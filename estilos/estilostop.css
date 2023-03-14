@@ -1,0 +1,22 @@
+.contenedor{
+    display:inline-block;
+    position: absolute;
+    width: 50%;
+    margin-left:5%;
+    font-family: cursive;
+}
+video{
+    margin-top: 2%;
+}
+h1{
+    font-family: Comic Sans MS;
+}
+p{
+    font-family: cursive;
+}
+body{
+    background-color:dimgray;
+}
+h2{
+    font-family: Comic Sans MS;
+}

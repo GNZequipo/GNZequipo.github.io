@@ -1,0 +1,19 @@
+#panelLateral{
+    float: left;
+    display: inline-block;
+    width: 25%;
+    margin: 12px;
+}
+#panelPrincipal{
+    display: inline-block;
+    width: 70%;
+    height: 380px;
+    margin: 8px;
+}
+.imagenes{
+   text-align:center;
+    
+}
+iframe{
+    position: absolute;
+}

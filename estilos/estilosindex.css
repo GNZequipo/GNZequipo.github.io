@@ -1,0 +1,56 @@
+header{
+    border: none;
+    background-color:chartreuse;
+}
+#logoTitulo{
+    float: left;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+}
+#textoTitulo{
+    display: inline-block;
+    width: 30%;
+    padding: 12px;
+    margin: 50px;
+    font-family: Trebuchet MS;
+    font-size: 48px;
+}
+nav{
+    clear: both;
+}
+ul{
+    width: 100%;
+    text-align: center;
+}
+.listaNav{
+    display: inline-block;
+    width: 12%;
+    font-size: 18px; 
+    padding: 8px;
+    text-align: center;
+    background-color:chartreuse;
+    font-family: Trebuchet MS;
+    color: black;
+}
+main{
+    padding: 8px;
+    margin: 12px;
+}
+#marcoPrinci{
+    padding: 6px;
+    margin: 6px;
+}
+footer{
+    padding: 6px;
+    margin: 6px;
+    border: none;
+    text-align: center;
+    background-color: chartreuse;
+}
+body{
+    background-color:dimgray;
+}
+iframe{
+    border: none;
+}
